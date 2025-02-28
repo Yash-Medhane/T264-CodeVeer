@@ -1,2 +1,2 @@
 ﻿# Automated Donation System Project
-# Organised by Tech-Horizon
+# Hackthon Organised by Tech-Horizon
